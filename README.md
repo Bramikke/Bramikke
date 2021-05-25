@@ -20,7 +20,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bramikke&layout=compact&count_private=true" height="150">
 </p>
 
-> **Note:** Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on Github.
+> **Note:** Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on public Github repositories.
 
 <!--
 **bramikke/bramikke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
